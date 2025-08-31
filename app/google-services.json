@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421581256568",
+    "project_id": "picnest-1c7f3",
+    "storage_bucket": "picnest-1c7f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421581256568:android:dbd5dab43f5d0e77203a8d",
+        "android_client_info": {
+          "package_name": "com.example.photoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChatxf1uCSdNKo3RSPvDz55IwhGj9laUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity4">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/back1"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:src="@drawable/logoforapppic2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/usernameEt"
+        android:hint="create username:"
+        android:textSize="25dp"
+        android:layout_marginTop="298dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="create password:"
+        android:id="@+id/passwordEt"
+        android:textSize="25dp"
+        android:layout_marginTop="350dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="conform password:"
+        android:id="@+id/confirmPasswordEt"
+        android:textSize="25dp"
+        android:layout_marginTop="400dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="70dp"
+        android:text="signup"
+        android:id="@+id/signupBtn"
+        android:gravity="center"
+        android:textSize="15dp"
+        android:layout_marginTop="500dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="20dp"/>
+</RelativeLayout>
