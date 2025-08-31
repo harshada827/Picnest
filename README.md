@@ -16,7 +16,7 @@ Features include authentication, photo upload, and gallery view.
 ## ⚙️ Setup Steps
 1. Clone the repo  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/harshada827/Picnest
 2.Open the project in Android Studio.
 
 3.Add your Firebase configuration (google-services.json).
@@ -34,4 +34,4 @@ Features include authentication, photo upload, and gallery view.
 👨‍💻 Author
 
 Name:Harshada Khajure
-Github Profile:
+Github Profile:https://github.com/harshada827/Picnest
